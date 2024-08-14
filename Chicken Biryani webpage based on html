@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MY FAVOURITE DISH</title>
+</head>
+<body style="background-color:rgb(237, 224, 197);">
+    <p style="font-family:'Times New Roman', Times, serif; text-align: center; font-size:300%;"><b><strong>CHICKEN BIRYANI</strong></b></p>
+    <img src="biryani.jpg" width="600" height="400">
+    <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:170%;"><b>ABOUT CHICKEN BIRYANI</b></p>
+    <p style="font-family: Arial, Helvetica, sans-serif; font-size:130%;">Chicken Biryani is a delightful dish that combines tender chicken, fragrant basmati rice, and a symphony of spices. Originating from the Indian subcontinent, this flavorful meal is cherished for its rich taste and aromatic appeal. The blend of cumin, coriander, cardamom, and cinnamon creates a tantalizing experience. Layers of marinated chicken and rice meld during slow cooking, resulting in a mouthwatering masterpiece.</p>
+    <a href="https://www.indianhealthyrecipes.com/chicken-biryani-recipe/#:~:text=Biryani%20is%20a%20celebratory%20rice,spices%2C%20herbs%20%26%20caramelized%20onions" ;><p style="font-size:170%;"><b>CHICKEN BIRYANI RECIPE</b></p></a>
+    <P style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:170%;"><b>HEALTH BENEFITS OF CHICKEN BIRYANI</b></P>
+    
+    <dl>
+        <dt><p style="font-family: Verdana, Geneva, Tahoma, sans-serif;"><strong>1. PROTEIN-PACKED RECIPE</strong></p></dt>
+        <dd><p style="font-family: Arial, Helvetica, sans-serif; font-size:130%;">Chicken and cashew nuts pack a punch with their protein content. Chicken's selenium antioxidant is a top-notch anti-aging and immune-boosting agent. Plus, it's a heart-friendly choice, reducing the risk of heart disease and strokes. Keep enjoying these nutritious foods for a healthy boost.</p></dd>
+        <dt><p style="font-family:Verdana, Geneva, Tahoma, sans-serif;"><strong>2. IT ASSISTS IN DIGESTION</strong></p></dt>
+        <dd><p style="font-family: Arial, Helvetica, sans-serif; font-size:130%;">Chicken Biryani's spices like cumin, turmeric, and ginger aid digestion. Cumin boosts enzyme activity, turmeric prevents bloating, and ginger helps with gas release and digestion. Enjoy the tasty and tummy-friendly benefits of these spices in your meal.</p></dd>
+        <dt><p style="font-family:Verdana, Geneva, Tahoma, sans-serif;"><strong>3. THE ANTI-INFLAMMATORY PROPERTIES OF TURMERIC</strong></p></dt>
+        <dd><p style="font-family: Arial, Helvetica, sans-serif; font-size:130%;">Turmeric reduces inflammation in the body. It has anti-inflammatory properties. Due to the presence of antioxidants, it aids in anti-aging. Turmeric is known to reduce the risk of brain diseases. Adding turmeric to Indian cuisine, especially with Chicken Biryani, reverses chronic heart conditions.</p></dd>
+    </dl>
+   
+    <a href="https://alcoeats.com/blogs/fun-with-alcoeats/amazing-health-benefits-of-chicken-biryani";><p style="font-size:170%;"> <p style="font-size:100%;"><b>MANY HEALTH BENEFITS</b></p></p></a>
+    
+
+    <label for="where do you eat chicken biryani" style="font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:130%;"><b>WHERE DO YOU EAT CHICKEN BIRYANI:</b></label>
+    <input name="where do you eat chicken biryani" list="Select a restaurent u prefer to eat" placeholder="start typing..." size="20">
+    <datalist id="Select a restaurent u prefer to eat">
+        <option value="Apple Hotel">
+        <option value="Orange Restaurant">
+        <option value="Grapes Grand">
+        <option value="Water Melon Daba">
+        <option value="Guava Hotel">
+    </datalist>
+
+    <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:170%;"><b>FEW POINTS ABOUT BIRYANI</b></p>
+    <ul>
+        <li><p style="font-family: Arial, Helvetica, sans-serif; font-size:130%;">Every year on <mark>7<sup>th</sup> July</mark> the world celebrates 'Biryani day'.</p></li>
+        <li><p style="font-family: Arial, Helvetica, sans-serif; font-size:130%;">The word <mark>Biryani</mark> originates from the word <mark>birian</mark>, meaning food that's fried before cooking.</p></li>
+        <li><p style="font-family: Arial, Helvetica, sans-serif; font-size:130%;">In the year <mark>2022</mark>, biryani became the most Googled dish.</p></li>
+    </ul>
+
+
+    <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size:170%;"><b>TO SAVE A DOCUMENT, PRESS<kbd> <sub>Ctrl</sub></kbd><sub>+</sub><kbd><sub>S</sub></kbd></b></p>
+</body>
+</html>
